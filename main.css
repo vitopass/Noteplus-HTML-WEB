@@ -1,0 +1,59 @@
+/*testing for training*/
+
+p{
+	color:blue;
+	font-family:arial;
+	font-weight:100;
+	font-style:italic;
+	font-size:40px;
+	
+	
+	
+	
+}
+h1{
+	background-color:green;
+	font:bold italic 24px tahoma;/* weight syle size, and family*/
+	/*padding-top:20px;
+	padding-right: 20px;
+	padding-bottom:20px;
+	padding-left:20px;*/
+	/*Padding:0px 20px 0px 20px;  top right bottom left*/
+	Padding: 10px 60px;/* top and bottom, left and right*/
+	margin-top:30px;
+	margin-left:300px;
+	margin-bottom: 30px;
+	margin-right:300px;
+	box-shadow: 10px 10px 5px #840;50px;
+	
+	
+	
+	
+}
+h2{
+	Font: bold 18px arial;
+	background-color: yellow;
+	padding: 30px 30px;
+	/*border-style: solid;
+	border-bottom-color:black;
+	border-width:5px;*/
+	/*Border: 6px dotted red; width style color*/
+	Border-top: 8px groove blue;
+	Border-left: 6px groove blue;/* width style color*/  /*sytle types dotted, dashed, solid, double, groove, ridge, inset, outset*/
+	/*Margin:60px 500px 60px 800px;/* top right bottom left*/
+	Margin: 8px 800px; /* top and bottom, left and right*/	
+	box-shadow: 10px 10px 20px #850;50px;
+	
+	
+}
+.hello{
+	font-style:normal;
+	background-color:gray;
+	margin:30px 650px;
+	border: 5px ridge blue;
+	padding:0px 0px;
+	
+}
+p.good{
+	font-style:normal;
+}
